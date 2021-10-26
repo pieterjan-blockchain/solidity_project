@@ -1,4 +1,3 @@
-//https://etherscan.io/address/0x13c547Ff0888A0A876E6F1304eaeFE9E6E06FC4B
 
 pragma solidity ^0.4.19;
 
